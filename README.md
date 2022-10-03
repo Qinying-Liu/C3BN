@@ -37,7 +37,7 @@ Please refer to “requirements.txt” for detailed information.
    ```
    The model would be automatically evaluated during training, and the log file and checkpoints would be saved in the folder `outputs/c3bn`.
    
-##References
+## References
 We referenced the repos below for the code.
 
  * [https://github.com/Pilhyeon/BaSNet-pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
