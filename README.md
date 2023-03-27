@@ -1,7 +1,10 @@
 # C3BN
 ## Introduction
 This repository is used for C3BN (Convex Combination Consistency between Neighbors for Weakly-supervised Action Localization). 
-It can reproduce the main results on THUMOS14 with the baseline of BaS-Net. We choose this baseline for illustration due to its simplicity. The code will be published once the paper is accpeted.
+It can reproduce the main results on THUMOS14 with the baseline of BaS-Net. We choose this baseline for illustration due to its simplicity.
+
+Accepted by ICME 2023.
+
 ## Install & Requirements
 We conduct experiments on the following environment: <br>
  * python == 3.9.13 <br>
