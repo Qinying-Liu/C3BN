@@ -1,6 +1,6 @@
 # C3BN
 ## Introduction
-This repository is used for C3BN (Convex Combination Consistency between Neighbors for Weakly-supervised Action Localization). 
+This repository is used for Unleashing the Potential of Adjacent Snippets for Weakly-supervised Temporal Action Localization. 
 It can reproduce the main results on THUMOS14 with the baseline of BaS-Net. We choose this baseline for illustration due to its simplicity.
 
 Accepted by ICME 2023, oral.
